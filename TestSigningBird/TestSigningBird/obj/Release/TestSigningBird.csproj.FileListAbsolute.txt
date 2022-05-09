@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Release\TestSigningBird.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Release\TestSigningBird.exe
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Release\TestSigningBird.pdb
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.exe
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.pdb
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\bin\Release\TestSigningBird.exe.config
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.exe
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\bin\Release\TestSigningBird.exe
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.SelectionForm.resources
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.csproj.GenerateResource.Cache
+C:\usr\koei\taikou5\dllwrap\TestSigningBird\TestSigningBird\obj\Release\TestSigningBird.csprojResolveAssemblyReference.cache

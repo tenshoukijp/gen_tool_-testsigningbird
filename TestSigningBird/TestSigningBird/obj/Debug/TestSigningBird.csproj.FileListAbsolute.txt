@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Debug\TestSigningBird.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\obj\Debug\TestSigningBird.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Debug\TestSigningBird.exe
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\bin\Debug\TestSigningBird.pdb
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\obj\Debug\TestSigningBird.exe
+c:\users\admin\documents\visual studio 2013\Projects\TestSigningBird\TestSigningBird\obj\Debug\TestSigningBird.pdb
